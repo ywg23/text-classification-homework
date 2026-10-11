@@ -1,0 +1,13 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 模型、数据集、运行产出
+models/
+data/
+results/*.csv
+
+# python缓存
+__pycache__/
+*.pyc
+
